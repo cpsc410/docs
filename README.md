@@ -16,19 +16,21 @@ However, it turns out that the fancy model that https://github.com/juliuste/tran
 ## Contributions
 #### Code Analysis
 - Ceylin: 
-  - wrote the shell script that gathers all the GitHub data
-  - output a .txt from the shell script to serve as input for parser
-  - analyzed symbol table output to create JSON file with required fields that would then be passed to the Code Visualization component
-   - configured the meow repo to allow for command line arguments from user input that would then be used for configurations
+  - Wrote the shell script that gathers all the GitHub data
+  - Output a .txt from the shell script to serve as input for parser
+  - Implemented compile method which used the symbol table values to create a JSON file with required fields that would then be passed on to the Code Visualization component
+   - Configured the meow repo to allow for command line arguments from user input that would then be used for configurations
+   - Implemented a singleton class for integration of the flags options
 
 - Cyrielle:
-  - parsed .txt input from the shell script
-  - implemented symbol table
-  - added configuration options to each parsing method to limit scope of data for a cleaner output JSON
-  - configured the meow repo to allow for command line arguments from user input that would then be used for configurations
+  - Parsed .txt input from the shell script
+  - Implemented symbol table
+  - Added configuration options to each parsing method to limit scope of data for a cleaner output JSON
+  - Configured the meow repo to allow for command line arguments from user input that would then be used for configurations
 
 #### Code Visualization
 - Ben
+  - <add your contribution here>
 - Noa
   - Graph post processing to create prettier connections
   - Transforming graph data to feed to https://github.com/juliuste/transit-map solver and SVG renderer
