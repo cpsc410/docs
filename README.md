@@ -5,7 +5,7 @@ We designed a metro map to display the code files and the contributors for a giv
 
 ![alt text](FinalRender.png)
 
-The nodes represent the file names and the different coloured lines represent different author who has contributed to the project being analyzed.
+The nodes represent the file names and the different coloured lines represent different authors who have contributed to the project.
 
 ## Contributions
 #### Code Analysis
@@ -54,8 +54,10 @@ We utilized three different analyses for this project; Lexical, Syntactical and 
 - used dynamic analysis when adding symbol and values in the symbol table -- it could only be populated when the program was running 
 
 ## Prototype Progression
-See PrototypeProgression.pdf
+See [PrototypeProgression.pdf](https://github.com/cpsc410/docs/blob/master/PrototypeProgression.pdf)
 
 ## User Studies
-See UserStudies.pdf
+See [UserStudies.pdf](https://github.com/cpsc410/docs/blob/master/UserStudies.pdf)
+
+
 
