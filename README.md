@@ -1,21 +1,21 @@
 # Visualization Project
 
 ## Purpose
-We designed a metro map to display the code files and the contributors for a given GitHub project.
+A metro map  was designed to display the code files and the contributors for a given GitHub project.
 
-The nodes represent the file names and the different coloured lines represent different author who has contributed to the project being analyzed.
+Nodes represent the file names ,and the different coloured lines represent different authors who contributed to the project being analyzed.
 
 ## Use Cases
-We think that this project can be very useful for:
+This project can be beneficial for:
 - see who worked on a specific file
 -- this could be especially helpful when trying to contact someone to fix a bug
-- see what the division of labour was
-- see who contributed most to files
-- see top contributor(s)
+- determining the division of labour
+- observing who contributed most to files
+- displaying top contributor(s)
 
 
 ## Performed Analyses
-We utilized three different analyses for this project; Lexical, Syntactical and Semantic.
+Three different analyses were analyzed for this project; Lexical, Syntactical and Semantic.
 
 ### Lexical Analysis
 - done on static input files
@@ -24,7 +24,7 @@ We utilized three different analyses for this project; Lexical, Syntactical and 
 ### Syntactical Analysis
 - done on static input files
 - used for creating grammar for the stats.txt input file
-- the grammar was included in the ast folder which contained the AuthorNode and FileNode
+- the grammar was included in the ast folder which contains the AuthorNode and FileNode
 
 ### Semantic Analysis
 - used for identification of the meaning
