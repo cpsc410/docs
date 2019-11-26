@@ -35,6 +35,7 @@ However, it turns out that the fancy model that https://github.com/juliuste/tran
   - Rendering transit-map SVG in frontend with labels and zooming 
   - Reimplemented render to feed graph into graphviz
   - Created frontend script to read graphviz JSON output and render to interactive SVG in browser
+  - Wrote script to intergrate project components together into a single command
 
 ## Usage
 To run the project see [here](https://github.com/cpsc410/runner/blob/master/README.md) and follow the instructions
