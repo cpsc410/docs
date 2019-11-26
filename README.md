@@ -8,7 +8,7 @@ We designed a metro map to display the code files and the contributors for a giv
 The nodes represent the file names and the different coloured lines represent different author who has contributed to the project being analyzed.
 
 ## Usage
-To run the project navigate to [here](https://github.com/cpsc410/runner/blob/master/README.md) and follow the instructions
+To run the project see [here](https://github.com/cpsc410/runner/blob/master/README.md) and follow the instructions
 
 ## Use Cases
 We think that this project can be very useful for:
