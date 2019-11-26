@@ -12,7 +12,7 @@ The nodes represent the file names and the different coloured lines represent di
 - Ceylin: 
   - wrote the shell script that gathers all the GitHub data
   - output a .txt from the shell script to serve as input for parser
-  - analyze symbol table output to create JSON file that would then be passed to the Code Visualization component
+  - analyzed symbol table output to create JSON file with required fields that would then be passed to the Code Visualization component
    - configured the meow repo to allow for command line arguments from user input that would then be used for configurations
 
 - Cyrielle:
