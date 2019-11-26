@@ -22,8 +22,13 @@ The nodes represent the file names and the different coloured lines represent di
   - configured the meow repo to allow for command line arguments from user input that would then be used for configurations
 
 #### Code Visualization
-- Noa
 - Ben
+- Noa
+  - Graph post processing to create prettier connections
+  - Transforming graph data to feed to https://github.com/juliuste/transit-map solver and SVG renderer
+  - Rendering transit-map SVG in frontend with labels and zooming 
+  - Reimplemented render to feed graph into graphviz
+  - Created frontend script to read graphviz JSON output and render to interactive SVG in browser
 
 ## Usage
 To run the project see [here](https://github.com/cpsc410/runner/blob/master/README.md) and follow the instructions
