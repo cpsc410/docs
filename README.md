@@ -54,7 +54,7 @@ We utilized three different analyses for this project; Lexical, Syntactical and 
 - used dynamic analysis when adding symbol and values in the symbol table -- it could only be populated when the program was running 
 
 ## Prototype Progression
-See [PrototypeProgression.pdf](https://github.com/cpsc410/docs/blob/master/PrototypeProgression.pdf)
+User studies have really helped us with developing our protypes further. See [PrototypeProgression.pdf](https://github.com/cpsc410/docs/blob/master/PrototypeProgression.pdf)
 
 ## User Studies
 See [UserStudies.pdf](https://github.com/cpsc410/docs/blob/master/UserStudies.pdf)
