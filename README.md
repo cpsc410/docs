@@ -19,7 +19,7 @@ We think that this project can be very useful for:
 - see top contributor(s)
 
 
-## Performed Analyses
+## Analyses Performed
 We utilized three different analyses for this project; Lexical, Syntactical and Semantic.
 
 ### Lexical Analysis
