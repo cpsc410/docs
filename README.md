@@ -30,7 +30,12 @@ However, it turns out that the fancy model that https://github.com/juliuste/tran
 
 #### Code Visualization
 - Ben
-  - <add your contribution here>
+  - Designed interfaces for each of the 3 different stages of the processing to interact.
+  - Created a typescript force-based layout engine which transforms the input JSON (file, contributors etc) into a directed graph of nodes each with their own coordinates and edges.
+  - The coordinates are ultimately discarded but help to produce the graph by clustering files with similiar contributors so that the edges are placed sensibly.
+  - Implemented (slightly modified) Prim's algorithm to produce a MSP (treated as a directed graph) of the nodes.
+  - Created the video.
+  
 - Noa
   - Graph post processing to create prettier connections
   - Transforming graph data to feed to https://github.com/juliuste/transit-map solver and SVG renderer
