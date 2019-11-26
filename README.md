@@ -7,6 +7,24 @@ We designed a metro map to display the code files and the contributors for a giv
 
 The nodes represent the file names and the different coloured lines represent different author who has contributed to the project being analyzed.
 
+## Contributions
+#### Code Analysis
+- Ceylin: 
+  - wrote the shell script that gathers all the GitHub data
+  - output a .txt from the shell script to serve as input for parser
+  - analyze symbol table output to create JSON file that would then be passed to the Code Visualization component
+   - configured the meow repo to allow for command line arguments from user input that would then be used for configurations
+
+- Cyrielle:
+  - parsed .txt input from the shell script
+  - implemented symbol table
+  - added configuration options to each parsing method to limit scope of data for a cleaner output JSON
+  - configured the meow repo to allow for command line arguments from user input that would then be used for configurations
+
+#### Code Visualization
+- Noa
+- Ben
+
 ## Usage
 To run the project see [here](https://github.com/cpsc410/runner/blob/master/README.md) and follow the instructions
 
